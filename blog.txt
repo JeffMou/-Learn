@@ -1,1 +1,3 @@
-study 
+１. Ubuntu 14.04绑定ＵＳＢ端口方法:
+参考https://blog.csdn.net/zqxdsy/article/details/85610165
+

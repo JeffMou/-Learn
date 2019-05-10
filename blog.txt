@@ -4,3 +4,33 @@
 ２．获取Ｐｙｔｈｏｎ版本号
 ｉｍｐｏｒｔ　ｓｙｓ
 sys.verison_info()
+
+3.Paramiko
+　paramiko模块，基于SSH用于连接远程服务器并执行相关操作。
+  https://www.cnblogs.com/python-nameless/p/6855804.html
+  
+4. Python的hasattr() getattr() setattr() 函数使用方法详解
+https://www.cnblogs.com/cenyu/p/5713686.html
+
+5.Python中执行系统命令常见的几种方法
+https://www.cnblogs.com/nkwy2012/p/6288618.html
+
+6.python subprocess模块使用总结
+https://www.cnblogs.com/lincappu/p/8270709.html
+
+7.This module is a Python wrapper of Android uiautomator testing framework. It works on Android 4.1+ simply with Android device attached via adb, no need to install anything on Android device.
+https://github.com/xiaocong/uiautomator
+
+8.python模块之logging
+https://www.cnblogs.com/MrFiona/p/5978898.html
+
+9.download file 
+https://blog.csdn.net/sinat_36246371/article/details/62426444
+
+10. virtualenv
+
+11. The lxml.etree Tutorial
+https://lxml.de/tutorial.html
+
+12.一文带你完全理解Python中的metaclass
+https://www.jianshu.com/p/224ffcb8e73e

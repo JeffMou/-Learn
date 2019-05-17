@@ -34,3 +34,6 @@ https://lxml.de/tutorial.html
 
 12.一文带你完全理解Python中的metaclass
 https://www.jianshu.com/p/224ffcb8e73e
+
+１３.深刻理解Python中的元类(metaclass)以及元类实现单例模式 
+https://www.cnblogs.com/tkqasn/p/6524879.html

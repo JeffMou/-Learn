@@ -37,3 +37,6 @@ https://www.jianshu.com/p/224ffcb8e73e
 
 １３.深刻理解Python中的元类(metaclass)以及元类实现单例模式 
 https://www.cnblogs.com/tkqasn/p/6524879.html
+
+14.用adb调试android设备时，首次连接时，会出现一个授权提示：
+https://blog.csdn.net/caibaihui/article/details/46862591
